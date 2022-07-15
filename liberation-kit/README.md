@@ -6,7 +6,7 @@ But then the white plastic shell will be useless?! Yes. And you can't buy a repl
 
 This is what this folder is for. To give you that replacement part.
 
-![You wouldn't download an AirPods case](wouldnt_download.jpg)
+![You wouldn't download an AirPods case](./liberation-kit/wouldnt_download.jpg)
 
 Yes, yes I would. If only I could...
 
