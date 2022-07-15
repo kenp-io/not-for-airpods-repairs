@@ -10,18 +10,22 @@ This is what this folder is for. To give you that replacement part.
 
 Yes, yes I would. If only I could...
 
-## I'm lost?:
+## I'm lost?
 
 File *liberation-gen1.stl* will fit the Gen. 1.
 
 File *liberation-gen2.stl* will fit the Gen. 2 wireless. Non-wireless should also fit but I haven't tried it yet. Will update if I do.
 
-## How to install it?:
+## How to install it?
 
 I highly suggest you watch my video (link).
+
 Cutting the case open is shown at !!!!!! .
+
 Printing is shown at !!!!!! .
+
 For best results I recommend you print with an SLA printer.
+
 But, if you only have an FDM printer ("only"..., that's already awesome!) I would try printing anyway. If you don't like the quality and feel of it, I would suggest looking into printing it with ABS and then doing an acetone vapour bath ;)
 
 ## Improvements for the future:
