@@ -18,11 +18,11 @@ File *liberation-gen2.stl* will fit the Gen. 2 wireless. Non-wireless should als
 
 ## How to install it?
 
-I highly suggest you watch my video (link).
+I highly suggest you watch my video ([link](https://www.youtube.com/watch?v=RQqk45ps9kg)).
 
-Cutting the case open is shown at !!!!!! .
+Cutting the case open is shown at 2:33.
 
-Printing is shown at !!!!!! .
+Printing is shown at 3:06.
 
 For best results I recommend you print with an SLA printer.
 
