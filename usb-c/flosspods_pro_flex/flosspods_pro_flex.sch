@@ -1,0 +1,630 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L c94_fake:JAE_DX07S016JA1R1500 U4
+U 1 1 60BE89DC
+P 9050 4050
+F 0 "U4" H 9778 3746 50  0000 L CNN
+F 1 "JAE_DX07S016JA1R1500" H 9778 3655 50  0000 L CNN
+F 2 "c94_fake:JAE_DX07S016JA1R1500" H 9050 4050 50  0001 C CNN
+F 3 "" H 9050 4050 50  0001 C CNN
+	1    9050 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9050 3850 9050 3700
+Wire Wire Line
+	9050 3700 9150 3700
+Wire Wire Line
+	9150 3700 9150 3850
+Wire Wire Line
+	8950 3850 8950 3600
+Wire Wire Line
+	8950 3600 9250 3600
+Wire Wire Line
+	9250 3600 9250 3850
+$Comp
+L power:GND #PWR05
+U 1 1 60BF1490
+P 9050 5100
+F 0 "#PWR05" H 9050 4850 50  0001 C CNN
+F 1 "GND" H 9055 4927 50  0000 C CNN
+F 2 "" H 9050 5100 50  0001 C CNN
+F 3 "" H 9050 5100 50  0001 C CNN
+	1    9050 5100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 4950 9300 5000
+Wire Wire Line
+	9300 5000 9200 5000
+Wire Wire Line
+	8800 5000 8800 4950
+Wire Wire Line
+	8900 4950 8900 5000
+Connection ~ 8900 5000
+Wire Wire Line
+	8900 5000 8800 5000
+Wire Wire Line
+	9000 4950 9000 5000
+Connection ~ 9000 5000
+Wire Wire Line
+	9000 5000 8900 5000
+Wire Wire Line
+	9100 4950 9100 5000
+Connection ~ 9100 5000
+Wire Wire Line
+	9100 5000 9050 5000
+Wire Wire Line
+	9200 4950 9200 5000
+Connection ~ 9200 5000
+Wire Wire Line
+	9200 5000 9100 5000
+Wire Wire Line
+	9050 5100 9050 5000
+Connection ~ 9050 5000
+Wire Wire Line
+	9050 5000 9000 5000
+$Comp
+L power:GND #PWR04
+U 1 1 60C0BA70
+P 8300 4000
+F 0 "#PWR04" H 8300 3750 50  0001 C CNN
+F 1 "GND" H 8305 3827 50  0000 C CNN
+F 2 "" H 8300 4000 50  0001 C CNN
+F 3 "" H 8300 4000 50  0001 C CNN
+	1    8300 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8550 3850 8550 3800
+Wire Wire Line
+	8550 3800 8300 3800
+Wire Wire Line
+	8300 3800 8300 4000
+Wire Wire Line
+	3400 2500 3400 1500
+NoConn ~ 4150 2950
+NoConn ~ 2400 2850
+Wire Wire Line
+	2100 2050 1500 2050
+Wire Wire Line
+	2100 2600 2100 2050
+Wire Wire Line
+	2000 2500 2550 2500
+Wire Wire Line
+	1900 2400 2250 2400
+Connection ~ 2550 2500
+Wire Wire Line
+	2250 2400 3300 2400
+Connection ~ 2250 2400
+NoConn ~ 1600 2600
+Connection ~ 1150 2050
+Wire Wire Line
+	1150 1200 1150 2050
+Wire Wire Line
+	3150 1200 1150 1200
+Wire Wire Line
+	3150 950  3150 1200
+Wire Wire Line
+	1150 2250 1150 2050
+Connection ~ 1150 2250
+Wire Wire Line
+	650  2250 650  2300
+Wire Wire Line
+	1150 2250 650  2250
+Wire Wire Line
+	1150 2050 1200 2050
+Wire Wire Line
+	1150 2850 1150 2250
+Wire Wire Line
+	1200 2850 1150 2850
+NoConn ~ 1800 3100
+Connection ~ 850  2850
+Wire Wire Line
+	1900 3150 1900 3100
+Wire Wire Line
+	850  3150 1900 3150
+Wire Wire Line
+	850  2850 850  3150
+Wire Wire Line
+	850  2600 1500 2600
+Wire Wire Line
+	850  2850 850  2600
+Wire Wire Line
+	650  2850 850  2850
+Connection ~ 2750 3100
+Wire Wire Line
+	2000 3150 2000 3100
+Wire Wire Line
+	2650 3150 2000 3150
+Wire Wire Line
+	2650 3100 2650 3150
+Wire Wire Line
+	2750 3100 2650 3100
+Wire Wire Line
+	2750 2800 2750 3100
+NoConn ~ 4400 2600
+Connection ~ 4550 2700
+Wire Wire Line
+	4550 3500 4550 2700
+Wire Wire Line
+	2100 3500 4550 3500
+Wire Wire Line
+	2100 3100 2100 3500
+Wire Wire Line
+	4550 2700 4400 2700
+Wire Wire Line
+	4550 1200 4550 2700
+Wire Wire Line
+	3250 1200 4550 1200
+Wire Wire Line
+	3250 950  3250 1200
+Wire Wire Line
+	4450 2200 5000 2200
+Wire Wire Line
+	4450 2500 4450 2200
+Wire Wire Line
+	4400 2500 4450 2500
+Wire Wire Line
+	2550 2050 2550 2500
+Connection ~ 2750 2500
+Wire Wire Line
+	2000 2500 2000 2600
+Wire Wire Line
+	2750 2500 2550 2500
+Wire Wire Line
+	3000 2500 3000 3400
+Wire Wire Line
+	3000 2500 2750 2500
+Wire Wire Line
+	3000 3400 2750 3400
+Connection ~ 3000 3400
+Wire Wire Line
+	3400 3400 3000 3400
+$Comp
+L Device:D D1
+U 1 1 60B138FD
+P 2750 3250
+F 0 "D1" V 2704 3330 50  0000 L CNN
+F 1 "D" V 2795 3330 50  0000 L CNN
+F 2 "Diode_SMD:D_SOD-523" H 2750 3250 50  0001 C CNN
+F 3 "~" H 2750 3250 50  0001 C CNN
+	1    2750 3250
+	0    1    1    0   
+$EndComp
+Connection ~ 3400 2500
+Wire Wire Line
+	3550 1500 3550 950 
+Wire Wire Line
+	3400 1500 3550 1500
+Wire Wire Line
+	5000 2800 5000 2500
+Connection ~ 5000 2800
+Wire Wire Line
+	4400 2800 5000 2800
+Wire Wire Line
+	3400 2800 3400 2700
+Connection ~ 3400 2800
+Wire Wire Line
+	3400 2800 3900 2800
+Wire Wire Line
+	3400 2700 3400 2600
+Connection ~ 3400 2700
+Wire Wire Line
+	3400 2700 3900 2700
+Wire Wire Line
+	3400 2600 3400 2500
+Connection ~ 3400 2600
+Wire Wire Line
+	3400 2600 3900 2600
+Connection ~ 3400 3400
+Wire Wire Line
+	3400 2500 3900 2500
+Wire Wire Line
+	3400 3400 3400 2800
+Wire Wire Line
+	5000 3400 5000 2800
+Wire Wire Line
+	3400 3400 5000 3400
+Wire Wire Line
+	3300 2400 3300 1500
+Connection ~ 3300 2400
+Wire Wire Line
+	1900 2400 1900 2600
+Wire Wire Line
+	2250 2050 2250 2400
+Wire Wire Line
+	2950 1500 2950 950 
+Wire Wire Line
+	3300 1500 2950 1500
+Wire Wire Line
+	3450 1400 3450 950 
+Wire Wire Line
+	3200 1400 3450 1400
+Wire Wire Line
+	3350 1300 3350 950 
+Wire Wire Line
+	3100 1300 3350 1300
+Wire Wire Line
+	1050 3700 650  3700
+Connection ~ 1050 3700
+Wire Wire Line
+	650  2700 650  2600
+Wire Wire Line
+	1050 2700 650  2700
+Wire Wire Line
+	1050 3700 1050 2700
+Connection ~ 1500 3700
+Wire Wire Line
+	650  3700 650  3150
+Wire Wire Line
+	1500 3700 1050 3700
+Wire Wire Line
+	1700 3700 3000 3700
+Connection ~ 1700 3700
+Wire Wire Line
+	1700 3100 1700 3700
+Wire Wire Line
+	1600 3700 1700 3700
+Connection ~ 1600 3700
+Wire Wire Line
+	1500 3700 1600 3700
+Wire Wire Line
+	1600 3100 1600 3700
+Wire Wire Line
+	1500 3100 1500 3700
+$Comp
+L c94_fake:LightningOut U2
+U 1 1 60B070A4
+P 3200 800
+F 0 "U2" H 3628 813 50  0000 L CNN
+F 1 "LightningOut" H 3628 722 50  0000 L CNN
+F 2 "c94_fake:LightningOut" H 3250 600 50  0001 C CNN
+F 3 "" H 3250 600 50  0001 C CNN
+	1    3200 800 
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1700 2600
+NoConn ~ 1800 2600
+$Comp
+L c94_fake:AS3616Afake U1
+U 1 1 60B00A9B
+P 1850 2850
+F 0 "U1" V 1650 3250 50  0000 L CNN
+F 1 "AS3616Afake" V 2050 3100 50  0000 L CNN
+F 2 "c94_fake:AS3616Afake" H 1750 2850 50  0001 C CNN
+F 3 "" H 1750 2850 50  0001 C CNN
+	1    1850 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L c94_fake:PD006 U3
+U 1 1 60AFD238
+P 4150 2650
+F 0 "U3" H 4150 3025 50  0000 C CNN
+F 1 "PD006" H 4150 2934 50  0000 C CNN
+F 2 "c94_fake:PD006" H 4150 2650 50  0001 C CNN
+F 3 "" H 4150 2650 50  0001 C CNN
+	1    4150 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 60AFA0D4
+P 5000 2350
+F 0 "C2" H 5115 2396 50  0000 L CNN
+F 1 "10 nF" H 5115 2305 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0201_0603Metric" H 5038 2200 50  0001 C CNN
+F 3 "~" H 5000 2350 50  0001 C CNN
+	1    5000 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 60AF979B
+P 2750 2650
+F 0 "C1" H 2865 2696 50  0000 L CNN
+F 1 "1 uF" H 2865 2605 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0201_0603Metric" H 2788 2500 50  0001 C CNN
+F 3 "~" H 2750 2650 50  0001 C CNN
+	1    2750 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 60AF7361
+P 2400 2050
+F 0 "R4" V 2607 2050 50  0000 C CNN
+F 1 "5.1k" V 2516 2050 50  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 2330 2050 50  0001 C CNN
+F 3 "~" H 2400 2050 50  0001 C CNN
+	1    2400 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 60AF6E1C
+P 1350 2050
+F 0 "R3" V 1557 2050 50  0000 C CNN
+F 1 "1k" V 1466 2050 50  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 1280 2050 50  0001 C CNN
+F 3 "~" H 1350 2050 50  0001 C CNN
+	1    1350 2050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 60AF64C9
+P 650 2450
+F 0 "R1" H 720 2496 50  0000 L CNN
+F 1 "150" H 720 2405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 580 2450 50  0001 C CNN
+F 3 "~" H 650 2450 50  0001 C CNN
+	1    650  2450
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	5300 600  5300 4700
+Wire Notes Line
+	5300 4700 550  4700
+Wire Notes Line
+	550  4700 550  600 
+Wire Notes Line
+	550  600  5300 600 
+NoConn ~ 9450 3850
+NoConn ~ 8850 3850
+Wire Wire Line
+	9650 3850 9650 3500
+Wire Wire Line
+	9650 3500 9350 3500
+Connection ~ 8300 3800
+$Comp
+L power:VCC #PWR03
+U 1 1 60C999AD
+P 8000 4000
+F 0 "#PWR03" H 8000 3850 50  0001 C CNN
+F 1 "VCC" H 8015 4173 50  0000 C CNN
+F 2 "" H 8000 4000 50  0001 C CNN
+F 3 "" H 8000 4000 50  0001 C CNN
+	1    8000 4000
+	-1   0    0    1   
+$EndComp
+Text GLabel 8950 3050 1    50   Input ~ 0
+D-
+Wire Wire Line
+	8950 3050 8950 3600
+Connection ~ 8950 3600
+Text GLabel 9150 3050 1    50   Input ~ 0
+D+
+Wire Wire Line
+	9150 3050 9150 3700
+Connection ~ 9150 3700
+Text GLabel 8750 3050 1    50   Input ~ 0
+CC
+Wire Wire Line
+	8750 3050 8750 3850
+$Comp
+L Device:C C3
+U 1 1 60CB5190
+P 8150 3800
+F 0 "C3" H 8265 3846 50  0000 L CNN
+F 1 "330 nF" H 8265 3755 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0201_0603Metric" H 8188 3650 50  0001 C CNN
+F 3 "~" H 8150 3800 50  0001 C CNN
+	1    8150 3800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8300 3500 8300 3800
+Connection ~ 8000 3800
+Wire Wire Line
+	8000 3800 8000 4000
+Wire Wire Line
+	8650 3650 8000 3650
+Wire Wire Line
+	8650 3650 8650 3850
+Wire Wire Line
+	8000 3650 8000 3800
+Wire Wire Line
+	9550 3850 9550 3400
+Wire Wire Line
+	9550 3400 8000 3400
+Wire Wire Line
+	8000 3400 8000 3650
+Connection ~ 8000 3650
+$Comp
+L Device:R R5
+U 1 1 60CE2E9A
+P 9350 3650
+F 0 "R5" V 9557 3650 50  0000 C CNN
+F 1 "5.1k" V 9466 3650 50  0000 C CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 9280 3650 50  0001 C CNN
+F 3 "~" H 9350 3650 50  0001 C CNN
+	1    9350 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9350 3500 9350 3550
+Connection ~ 9350 3500
+Wire Wire Line
+	9350 3500 8300 3500
+$Comp
+L Device:R R2
+U 1 1 60AF531A
+P 650 3000
+F 0 "R2" H 720 3046 50  0000 L CNN
+F 1 "100k" H 720 2955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0201_0603Metric" V 580 3000 50  0001 C CNN
+F 3 "~" H 650 3000 50  0001 C CNN
+	1    650  3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 60C52733
+P 3400 4250
+F 0 "#PWR02" H 3400 4000 50  0001 C CNN
+F 1 "GND" H 3405 4077 50  0000 C CNN
+F 2 "" H 3400 4250 50  0001 C CNN
+F 3 "" H 3400 4250 50  0001 C CNN
+	1    3400 4250
+	1    0    0    -1  
+$EndComp
+Text GLabel 3300 4250 3    50   Input ~ 0
+CC
+Text GLabel 3200 4250 3    50   Input ~ 0
+D-
+Text GLabel 3100 4250 3    50   Input ~ 0
+D+
+$Comp
+L power:VCC #PWR01
+U 1 1 60C52E5E
+P 3000 4250
+F 0 "#PWR01" H 3000 4100 50  0001 C CNN
+F 1 "VCC" H 3015 4423 50  0000 C CNN
+F 2 "" H 3000 4250 50  0001 C CNN
+F 3 "" H 3000 4250 50  0001 C CNN
+	1    3000 4250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3400 3400 3400 4200
+Wire Wire Line
+	3300 2400 3300 3700
+Wire Wire Line
+	3200 1400 3200 3900
+Wire Wire Line
+	3100 1300 3100 3950
+Wire Wire Line
+	3000 3700 3000 4200
+NoConn ~ 3050 950 
+NoConn ~ 2850 950 
+$Comp
+L Connector:TestPoint GND1
+U 1 1 60C81262
+P 3650 4200
+F 0 "GND1" V 3604 4388 50  0000 L CNN
+F 1 "GND" V 3695 4388 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 3850 4200 50  0001 C CNN
+F 3 "~" H 3850 4200 50  0001 C CNN
+	1    3650 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint VCC1
+U 1 1 60C85678
+P 2750 4200
+F 0 "VCC1" V 2945 4272 50  0000 C CNN
+F 1 "VCC" V 2854 4272 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 2950 4200 50  0001 C CNN
+F 3 "~" H 2950 4200 50  0001 C CNN
+	1    2750 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 4200 3000 4200
+Connection ~ 3000 4200
+Wire Wire Line
+	3000 4200 3000 4250
+Wire Wire Line
+	3650 4200 3400 4200
+Connection ~ 3400 4200
+Wire Wire Line
+	3400 4200 3400 4250
+$Comp
+L Connector:TestPoint CC3
+U 1 1 60C95265
+P 3650 4050
+F 0 "CC3" V 3604 4238 50  0000 L CNN
+F 1 "CC" V 3695 4238 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 3850 4050 50  0001 C CNN
+F 3 "~" H 3850 4050 50  0001 C CNN
+	1    3650 4050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3650 4050 3300 4050
+Connection ~ 3300 4050
+Wire Wire Line
+	3300 4050 3300 4250
+$Comp
+L Connector:TestPoint D-1
+U 1 1 60C9A202
+P 3650 3900
+F 0 "D-1" V 3604 4088 50  0000 L CNN
+F 1 "D-" V 3695 4088 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 3850 3900 50  0001 C CNN
+F 3 "~" H 3850 3900 50  0001 C CNN
+	1    3650 3900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3650 3900 3200 3900
+Connection ~ 3200 3900
+Wire Wire Line
+	3200 3900 3200 4250
+$Comp
+L Connector:TestPoint D+1
+U 1 1 60CA4B1B
+P 2750 3950
+F 0 "D+1" V 2945 4022 50  0000 C CNN
+F 1 "D+" V 2854 4022 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 2950 3950 50  0001 C CNN
+F 3 "~" H 2950 3950 50  0001 C CNN
+	1    2750 3950
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2750 3950 3100 3950
+Connection ~ 3100 3950
+Wire Wire Line
+	3100 3950 3100 4250
+$Comp
+L Connector:TestPoint CC2
+U 1 1 60CA9F15
+P 9900 3800
+F 0 "CC2" V 9854 3988 50  0000 L CNN
+F 1 "CC2" V 9945 3988 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 10100 3800 50  0001 C CNN
+F 3 "~" H 10100 3800 50  0001 C CNN
+	1    9900 3800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9900 3800 9350 3800
+Wire Wire Line
+	9350 3850 9350 3800
+Connection ~ 9350 3800
+Text Label 2200 1200 0    50   ~ 0
+PWR
+$Comp
+L Connector:TestPoint CC1
+U 1 1 60CC1853
+P 3600 3700
+F 0 "CC1" V 3554 3888 50  0000 L CNN
+F 1 "CC" V 3645 3888 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.5mm" H 3800 3700 50  0001 C CNN
+F 3 "~" H 3800 3700 50  0001 C CNN
+	1    3600 3700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3600 3700 3300 3700
+Connection ~ 3300 3700
+Wire Wire Line
+	3300 3700 3300 4050
+$EndSCHEMATC
