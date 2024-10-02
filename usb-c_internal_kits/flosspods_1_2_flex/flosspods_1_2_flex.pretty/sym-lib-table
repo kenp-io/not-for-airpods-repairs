@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name c94_fake)(type Legacy)(uri ${KIPRJMOD}/c94_fake.lib)(options "")(descr ""))
+  (lib (name CX90B-16P)(type Legacy)(uri ${KIPRJMOD}/CX90B-16P.lib)(options "")(descr ""))
+  (lib (name DX07S016JA1R1500)(type Legacy)(uri ${KIPRJMOD}/DX07S016JA1R1500.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name flosspods_1_2_flex)(type KiCad)(uri ${KIPRJMOD}/flosspods_1_2_flex.pretty)(options "")(descr ""))
+)
